@@ -1,0 +1,22 @@
+#section-games-1,
+#footer {
+	background-color: #2b2b38;
+}
+
+#section-games-2 {
+	background-color: #efefef;
+}
+
+.btn-color {
+	background-color: #e9880f;
+	border: 0px;
+	transition: background-color 0.2s;
+}
+
+.btn-color:hover {
+	background-color: #cf7f18;
+}
+
+.btn-border-radius {
+	border-radius: 0px;
+}
